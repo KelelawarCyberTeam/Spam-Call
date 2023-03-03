@@ -9,7 +9,7 @@
     $ pkg update && pkg upgrade
     $ pkg install python
     $ pkg install git
-    $ git clone 
+    $ git clone https://github.com/KelelawarCyberTeam/Spam-Call
     $ cd Spam-Call
     $ python -m pip install -r requirements.txt
     $ python call.py
