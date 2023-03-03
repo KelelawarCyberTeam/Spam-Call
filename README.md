@@ -15,4 +15,6 @@
     $ python call.py
     
      Akses Token? pc
+
+     xXx Maksimal 5 xXx
     
