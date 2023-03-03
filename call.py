@@ -1,6 +1,6 @@
-# Compile by Sanz
-# Youtube : FREE TUTORIAL
-# Github  : https://github.com/Sxp-ID
+# Code by Sanz
+# Youtube : Kelelawar Cyber Team
+# Github  : https://github.com/KelelawarCyberTeam
 # Mau recode ya? Izin dulu Slur >_<
 # Jangan di edit nanti error Slur!!
 Sanz = ('OOOOOOOOOOO', 'OOOOOOOOOOO', 'OOOOOOOOOOO', 'OOOOOOOOOOO', 'OOOOOOOOOOO',
